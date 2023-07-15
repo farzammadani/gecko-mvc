@@ -5,12 +5,12 @@
 ## example 1:
 `
 GOTO:
-http://localhost/php-simple-mvc/index.php?controller=user&action=index
+http://<project_dir>/index.php?controller=user&action=index
 `
 
 ## example 2:
 `
 GOTO:
-http://localhost/php-simple-mvc/index.php?controller=random&action=random
+http://<project_dir>/index.php?controller=random&action=random
 `
 
